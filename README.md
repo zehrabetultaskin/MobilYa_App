@@ -23,18 +23,25 @@ UI theme sınıfımızda mobilyaların görsel özelliklerini ve renklerini beli
 
 1)	Giriş Arayüzü
 Uygulamamızda bir kullanıcının giriş yaptığı zaman istediği modele kolaylıkla erişebilmesi ve kullanım amacını yerine getirebilmesi için basit, anlaşılabilir ve kullanışlı bir arayüz tasarladık. Aşağıda Şekil.1’de mobil uygulamamızın arayüzünü ve arayüzde bulunan kategorileri gösteren bir görsel ekledik.
-![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/929da0e1-4ad8-4fac-ad89-3106ba83a4b0)![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/f0b49165-5411-4ec8-a335-5310b80217ee)![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/e5df08b0-9bd9-4e14-9dff-3f63ef5911cf)
 
+![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/929da0e1-4ad8-4fac-ad89-3106ba83a4b0)![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/f0b49165-5411-4ec8-a335-5310b80217ee)![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/e5df08b0-9bd9-4e14-9dff-3f63ef5911cf)
 
 
 Şekil. 1
 2)	Detay Arayüzü
 Kullanıcı ilk giriş sayfasında bir ürün beğenip ona tıkladığı zaman uygulama direct olarak kullanıcıya o ürünün detay sayfasını görüntüleyecektir. Kullanıcı beğendiği ürünü aşağıda Şekil.2’de görüldüğü gibi ‘Kendi evinde gör’ butonuna basarak görüntüleyebilir. 
 
-      
+   ![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/bd30b15d-65c8-417a-a9a0-ebea589748b5)![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/98388beb-7f65-4fff-970f-cbe3995d2138)![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/9cc2bd99-45eb-4290-a797-d85f68a7c445)
+
+
+
 Şekil. 2
 3)	3D Modelin Görüntülenmesi
 Kullanıcının butona basmasının ardından kullanıcı kendi ortamında seçtiği ürün modelini 3D bir şekilde görüntüleyebilir.Açılan modeli küçültebilir, döndürebilir ve istediği şekilde konumlandırabilir. Aşağıda Şekil.3’de de görüldüğü gibi istenen ürün farklı boyutlarda ve ortamlarda görüntülenebilmektedir. 
+
+![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/cefd04e4-2c43-4d7d-ae52-721a67e2cf15)![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/da6aa3dc-31c8-463f-879e-d504d25ee453)![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/7c8d0599-1cfb-4c5f-a493-b243d199a2e1)
+
+
 
    
 Şekil. 3
