@@ -18,7 +18,7 @@
 Şekil. 1
 
 ##### 2) Detay Arayüzü
-*Kullanıcı ilk giriş sayfasında bir ürün beğenip ona tıkladığı zaman uygulama direct olarak kullanıcıya o ürünün detay sayfasını görüntüleyecektir. Kullanıcı beğendiği ürünü aşağıda Şekil.2’de görüldüğü gibi ‘Kendi evinde gör’ butonuna basarak görüntüleyebilir. 
+- Kullanıcı ilk giriş sayfasında bir ürün beğenip ona tıkladığı zaman uygulama direct olarak kullanıcıya o ürünün detay sayfasını görüntüleyecektir. Kullanıcı beğendiği ürünü aşağıda Şekil.2’de görüldüğü gibi ‘Kendi evinde gör’ butonuna basarak görüntüleyebilir. 
 
    ![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/bd30b15d-65c8-417a-a9a0-ebea589748b5)![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/98388beb-7f65-4fff-970f-cbe3995d2138)![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/9cc2bd99-45eb-4290-a797-d85f68a7c445)
 
