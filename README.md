@@ -1,11 +1,9 @@
 # MobilYa_App
 
 #### Kullanılan Teknolojiler
-A.	Kotlin 
-- Kotlin, JetBrains tarafından geliştirilen ve özellikle Android uygulama geliştirmek için tasarlanmış bir programlama dilidir. Kotlin, Java'nın yerine geçebilen ve Java ile tam uyumlu çalışabilen bir dil olarak tasarlanmıştır. Bu özellikleri sayesinde, Java projelerine uyumlu bir şekilde entegre edilebilen ve Java ile yazılmış kodları kullanabilen bir dil olarak kullanılabilir.
+*Kotlin, JetBrains tarafından geliştirilen ve özellikle Android uygulama geliştirmek için tasarlanmış bir programlama dilidir. Kotlin, Java'nın yerine geçebilen ve Java ile tam uyumlu çalışabilen bir dil olarak tasarlanmıştır. Bu özellikleri sayesinde, Java projelerine uyumlu bir şekilde entegre edilebilen ve Java ile yazılmış kodları kullanabilen bir dil olarak kullanılabilir.
 
-B.	ARCore
-- ARCore, Google tarafından geliştirilen ve Android cihazlarda artırılmış gerçeklik (AR) uygulamaları oluşturmayı sağlayan bir platformdur. Artırılmış gerçeklik, gerçek dünya görüntüsüne dijital içerik eklemeyi amaçlayan bir teknolojidir. ARCore, özellikle mobil cihazlarda (telefonlar ve tabletler gibi) bu tür uygulamaları geliştirmek isteyen geliştiricilere yöneliktir. ARCore’un temel özellikleri aşağıda yer almaktadır. 
+*ARCore, Google tarafından geliştirilen ve Android cihazlarda artırılmış gerçeklik (AR) uygulamaları oluşturmayı sağlayan bir platformdur. Artırılmış gerçeklik, gerçek dünya görüntüsüne dijital içerik eklemeyi amaçlayan bir teknolojidir. ARCore, özellikle mobil cihazlarda (telefonlar ve tabletler gibi) bu tür uygulamaları geliştirmek isteyen geliştiricilere yöneliktir. ARCore’un temel özellikleri aşağıda yer almaktadır. 
 
 1.	Hareket Takibi: ARCore, cihazın konumunu ve hareketini takip eder. Bu, gerçek dünyadaki nesnelerle etkileşimde bulunmak için cihazın konumunu belirlemenizi ve bu nesneleri takip etmenizi sağlar.
 2.	Yüzey Algılama: ARCore, düz yüzeyleri algılamak ve belirli bir konumda dijital nesneleri sabitlemek için çevresel görüntüleme tekniklerini kullanır. Bu sayede, kullanıcılar cihazlarını belirli bir konumda tuttuklarında dijital içeriğin tutarlı bir şekilde görünmesi sağlanır.
@@ -13,14 +11,14 @@ B.	ARCore
 4.	Görsel İşleme ve Tanıma: ARCore, gerçek dünyadaki nesneleri tanıma ve takip etme yeteneğine sahiptir. Bu, kullanıcıların cihazlarını belirli nesnelerle etkileştirebilmelerine olanak tanır.
 
 1)	Giriş Arayüzü
-Uygulamamızda bir kullanıcının giriş yaptığı zaman istediği modele kolaylıkla erişebilmesi ve kullanım amacını yerine getirebilmesi için basit, anlaşılabilir ve kullanışlı bir arayüz tasarladık. Aşağıda Şekil.1’de mobil uygulamamızın arayüzünü ve arayüzde bulunan kategorileri gösteren bir görsel ekledik.
+*Uygulamamızda bir kullanıcının giriş yaptığı zaman istediği modele kolaylıkla erişebilmesi ve kullanım amacını yerine getirebilmesi için basit, anlaşılabilir ve kullanışlı bir arayüz tasarladık. Aşağıda Şekil.1’de mobil uygulamamızın arayüzünü ve arayüzde bulunan kategorileri gösteren bir görsel ekledik.
 
 ![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/929da0e1-4ad8-4fac-ad89-3106ba83a4b0)![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/f0b49165-5411-4ec8-a335-5310b80217ee)![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/e5df08b0-9bd9-4e14-9dff-3f63ef5911cf)
 
 
 Şekil. 1
 2)	Detay Arayüzü
-Kullanıcı ilk giriş sayfasında bir ürün beğenip ona tıkladığı zaman uygulama direct olarak kullanıcıya o ürünün detay sayfasını görüntüleyecektir. Kullanıcı beğendiği ürünü aşağıda Şekil.2’de görüldüğü gibi ‘Kendi evinde gör’ butonuna basarak görüntüleyebilir. 
+*Kullanıcı ilk giriş sayfasında bir ürün beğenip ona tıkladığı zaman uygulama direct olarak kullanıcıya o ürünün detay sayfasını görüntüleyecektir. Kullanıcı beğendiği ürünü aşağıda Şekil.2’de görüldüğü gibi ‘Kendi evinde gör’ butonuna basarak görüntüleyebilir. 
 
    ![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/bd30b15d-65c8-417a-a9a0-ebea589748b5)![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/98388beb-7f65-4fff-970f-cbe3995d2138)![image](https://github.com/zehrabetultaskin/MobilYa_App/assets/101520940/9cc2bd99-45eb-4290-a797-d85f68a7c445)
 
